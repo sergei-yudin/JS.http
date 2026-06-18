@@ -1,6 +1,6 @@
 # HelpDesk
 
-[![Build status](https://github.com/sergei-yudin/JS.http/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergei-yudin/JS.http/actions/workflows/deploy.yml)
+[![Build status](https://github.com/sergei-yudin/JS.http/actions/workflows/static.yml/badge.svg)](https://github.com/sergei-yudin/JS.http/actions/workflows/static.yml)
 
 ## GitHub Pages
 
