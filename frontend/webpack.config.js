@@ -7,7 +7,7 @@ module.exports = {
   devtool: 'inline-source-map',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/',
+    publicPath: process.env.NODE_ENV === 'production' ? '/JS.http/' : '/',
   },
   devServer: {
     historyApiFallback: true,
